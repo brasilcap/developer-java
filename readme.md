@@ -12,10 +12,6 @@ O cliente deve ter disponível as melhores rotas entre alguns bairros e suas dev
 
 ## Detalhes Técnicos
 
-Para iniciar o desenvolvimento, favor criar um fork deste repositório para sua conta pessoal. 
-
-# Não esqueça de dar acesso ao usuário Brasilcap como repositório ao seu projeto.
-
 Você deverá implementar mais do que um simples algoritmo de solução. Estamos esperando uma aplicação executável com uma estrutura mínima. Você deverá modelar essa estrutura de objetos e utilizar Design Patterns sempre que apropriado e necessário, mas não se esqueça de manter tudo o mais simples possível.
 
 1. A aplicação já contém a estrutura Maven necessária para sua construção.
